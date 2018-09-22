@@ -1,5 +1,8 @@
 _repo: L-Holocauste-Roman-Contemporain_55028
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55028-h/images/cover.jpg
 creator:
   author:
     agent_name: La Jeunesse, Ernest
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45984
     wikipedia: https://fr.wikipedia.org/wiki/Ernest_La_Jeunesse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55028#L-Holocauste-Roman-Contemporain
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2017-07-02'
 gutenberg_type: Text
